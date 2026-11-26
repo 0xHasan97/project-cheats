@@ -5,7 +5,7 @@
 
 Cheat/menu package for **NTE: Neverness to Everness**, distributed per region.
 
-> **Download:** [release `0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/0.4.11) — both region packages plus `SHA256SUMS.txt`.
+> **Download:** [release `0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/0.4.11) — both region packages.
 
 <img src="screenshots/banner.jpg" width="720"/>
 
