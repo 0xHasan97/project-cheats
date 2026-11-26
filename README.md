@@ -32,11 +32,11 @@ and the build ships as `Release.rar` exactly as the authors publish it.
 
 | Tool | Version | Assets | Link |
 | :--- | :--- | :--- | :--- |
-| **Tokky-NTE** | `0.4.11` | `Tokky-NTE-Global.zip` · `Tokky-NTE-CN.zip` | [`0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/0.4.11) |
-| **Alya** — Honkai: Star Rail | `0.2.8` | `Release.rar` | [`0.2.8`](https://github.com/0xHasan97/project-cheats/releases/tag/0.2.8) |
-| **Alya** — Arknights | `0.1.7` | `Release.rar` | [`0.1.7`](https://github.com/0xHasan97/project-cheats/releases/tag/0.1.7) |
-| **Alya** — The Spike Cross | `0.0.9` | `Release.rar` | [`0.0.9`](https://github.com/0xHasan97/project-cheats/releases/tag/0.0.9) |
-| **Alya** — NIKKE | `0.1.8` | `Release.rar` | [`0.1.8`](https://github.com/0xHasan97/project-cheats/releases/tag/0.1.8) |
+| **Tokky-NTE** | `0.4.11` | `Tokky-NTE-Global.zip` · `Tokky-NTE-CN.zip` | [`Tokky-NTE-v0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-NTE-v0.4.11) |
+| **Alya** — Honkai: Star Rail | `0.2.8` | `Release.rar` | [`Alya-StarRail-v0.2.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-StarRail-v0.2.8) |
+| **Alya** — Arknights | `0.1.7` | `Release.rar` | [`Alya-Arknights-v0.1.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Arknights-v0.1.7) |
+| **Alya** — The Spike Cross | `0.0.9` | `Release.rar` | [`Alya-TheSpikeCross-v0.0.9`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-TheSpikeCross-v0.0.9) |
+| **Alya** — NIKKE | `0.1.8` | `Release.rar` | [`Alya-NIKKE-v0.1.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-NIKKE-v0.1.8) |
 
 ---
 

