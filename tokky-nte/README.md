@@ -5,6 +5,8 @@
 
 Cheat/menu package for **NTE: Neverness to Everness**, distributed per region.
 
+> **Download:** [Tokky-NTE v0.4.11 release](https://github.com/0xHasan97/project-cheats/releases/tag/tokky-nte-v0.4.11) — both region packages plus `SHA256SUMS.txt`.
+
 <img src="screenshots/banner.jpg" width="720"/>
 
 ## Package info

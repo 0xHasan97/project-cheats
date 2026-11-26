@@ -23,6 +23,27 @@ plus a link back to the original source and full credit to its author.
 
 ---
 
+## Releases
+
+Every downloadable file is published as a **GitHub Release** — one per tool, each shipping a
+`SHA256SUMS.txt` so you can verify what you downloaded.
+
+| Release | Assets | Link |
+| :--- | :--- | :--- |
+| **Tokky-NTE** `v0.4.11` | `Tokky-NTE-Global.zip` · `Tokky-NTE-CN.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/tokky-nte-v0.4.11) |
+| **Alya — Honkai: Star Rail** | `alya-starrail.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-starrail-v1.0) |
+| **Alya — Arknights** | `alya-arknights.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-arknights-v1.0) |
+| **Alya — The Spike Cross** | `alya-thespikecross.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) |
+| **Alya — NIKKE** | `alya-nikke.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-nikke-v1.0) |
+
+### Verify a download
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
+---
+
 ## Downloads
 
 ### Tokky-NTE
@@ -31,8 +52,8 @@ Cheat package for **NTE: Neverness to Everness**. Press **Insert** to open the m
 
 | Region | File | Size | SHA-256 |
 | :--- | :--- | ---: | :--- |
-| Global — game 1.5.5 | [`Tokky-NTE-Global.zip`](tokky-nte/downloads/Tokky-NTE-Global.zip) | 22.2 MB | `b3a52bc6258cfb379e658110bba661689a9ec014566ff9e5fb38c430b2ed87c0` |
-| CN — game 1.5.6 | [`Tokky-NTE-CN.zip`](tokky-nte/downloads/Tokky-NTE-CN.zip) | 23.3 MB | `be945a7a6de6f091b9c6117e854caa1bbdefc9082fa660c00569176e52ee1595` |
+| Global — game 1.5.5 | [`Tokky-NTE-Global.zip`](https://github.com/0xHasan97/project-cheats/releases/download/tokky-nte-v0.4.11/Tokky-NTE-Global.zip) | 22.2 MB | `b3a52bc6258cfb379e658110bba661689a9ec014566ff9e5fb38c430b2ed87c0` |
+| CN — game 1.5.6 | [`Tokky-NTE-CN.zip`](https://github.com/0xHasan97/project-cheats/releases/download/tokky-nte-v0.4.11/Tokky-NTE-CN.zip) | 23.3 MB | `be945a7a6de6f091b9c6117e854caa1bbdefc9082fa660c00569176e52ee1595` |
 
 > Both SHA-256 values were verified byte-for-byte against the hashes published on the
 > [official tool page](https://imtokky.vercel.app/tools/tokky-nte).

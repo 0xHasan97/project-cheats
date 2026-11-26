@@ -3,6 +3,8 @@
 > **Mirrored copy.** Original source: <https://github.com/0xCiel/Alya-Arknights>
 > All credit to **0xCiel** and the Alya project — this repository does not own or maintain it.
 
+> **Download:** [Alya — Arknights release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-arknights-v1.0) — documentation folder bundle plus `SHA256SUMS.txt`.
+
 If you're interested for Endfield, join the Discord: <https://discord.gg/FV4ArH4BQa>
 
 ## Features

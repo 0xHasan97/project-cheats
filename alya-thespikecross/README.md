@@ -3,6 +3,8 @@
 > **Mirrored copy.** Original source: <https://github.com/0xCiel/Alya-TheSpikeCross>
 > All credit to **0xCiel** and the Alya project — this repository does not own or maintain it.
 
+> **Download:** [Alya — The Spike Cross release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) — documentation folder bundle plus `SHA256SUMS.txt`.
+
 <p align="center"><img src="screenshots/banner.png" width="420"/></p>
 
 <p align="center"><a href="https://discord.gg/9gW7MWsWnH"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/></a></p>
