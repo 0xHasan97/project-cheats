@@ -16,6 +16,7 @@ plus a link back to the original source and full credit to its author.
 | Folder | Project | Game | Original source |
 | :--- | :--- | :--- | :--- |
 | [`tokky-nte/`](tokky-nte/) | **Tokky-NTE** `v0.4.11` | NTE: Neverness to Everness | [imtokky.vercel.app/tools/tokky-nte](https://imtokky.vercel.app/tools/tokky-nte) |
+| [`tokky-zzz/`](tokky-zzz/) | **Tokky-ZZZ** `v0.1.3` | Zenless Zone Zero | [imtokky/Tokky-ZZZ](https://github.com/imtokky/Tokky-ZZZ) |
 | [`alya-starrail/`](alya-starrail/) | **Alya** | Honkai: Star Rail | [0xCiel/Alya-StarRail](https://github.com/0xCiel/Alya-StarRail) |
 | [`alya-arknights/`](alya-arknights/) | **Alya** | Arknights | [0xCiel/Alya-Arknights](https://github.com/0xCiel/Alya-Arknights) |
 | [`alya-thespikecross/`](alya-thespikecross/) | **Alya** | The Spike Cross | [0xCiel/Alya-TheSpikeCross](https://github.com/0xCiel/Alya-TheSpikeCross) |
@@ -33,6 +34,7 @@ and the build ships as `Release.rar` exactly as the authors publish it.
 | Tool | Version | Assets | Link |
 | :--- | :--- | :--- | :--- |
 | **Tokky-NTE** | `0.4.11` | `Tokky-NTE-Global.zip` · `Tokky-NTE-CN.zip` | [`Tokky-NTE-v0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-NTE-v0.4.11) |
+| **Tokky-ZZZ** | `0.1.3` | `Tokky-ZZZ0.1.3.zip` | [`Tokky-ZZZ-v0.1.3`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-ZZZ-v0.1.3) |
 | **Alya** — Honkai: Star Rail | `0.2.8` | `Release.rar` | [`Alya-StarRail-v0.2.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-StarRail-v0.2.8) |
 | **Alya** — Arknights | `0.1.7` | `Release.rar` | [`Alya-Arknights-v0.1.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Arknights-v0.1.7) |
 | **Alya** — The Spike Cross | `0.0.9` | `Release.rar` | [`Alya-TheSpikeCross-v0.0.9`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-TheSpikeCross-v0.0.9) |
