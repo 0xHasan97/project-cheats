@@ -31,10 +31,10 @@ Every downloadable file is published as a **GitHub Release** — one per tool, e
 | Release | Assets | Link |
 | :--- | :--- | :--- |
 | **Tokky-NTE** `v0.4.11` | `Tokky-NTE-Global.zip` · `Tokky-NTE-CN.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/tokky-nte-v0.4.11) |
-| **Alya — Honkai: Star Rail** | `alya-starrail.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-starrail-v1.0) |
-| **Alya — Arknights** | `alya-arknights.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-arknights-v1.0) |
-| **Alya — The Spike Cross** | `alya-thespikecross.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) |
-| **Alya — NIKKE** | `alya-nikke.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-nikke-v1.0) |
+| **Alya — Honkai: Star Rail** | `Alya-StarRail-0.2.8.rar` · `alya-starrail.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-starrail-v1.0) |
+| **Alya — Arknights** | `Alya-Arknights-0.1.7.rar` · `alya-arknights.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-arknights-v1.0) |
+| **Alya — The Spike Cross** | `Alya-TheSpikeCross-0.0.9.rar` · `alya-thespikecross.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) |
+| **Alya — NIKKE** | `Alya-NIKKE-0.1.8.rar` · `alya-nikke.zip` · `SHA256SUMS.txt` | [Download](https://github.com/0xHasan97/project-cheats/releases/tag/alya-nikke-v1.0) |
 
 ### Verify a download
 
@@ -61,15 +61,16 @@ Cheat package for **NTE: Neverness to Everness**. Press **Insert** to open the m
 
 ### Alya
 
-The Alya repositories are **documentation-only** (feature lists, screenshots and Discord links).
-They do not contain binaries — see each folder's README and the original repositories for releases.
+Each Alya release carries the **current upstream build** — pulled straight from that tool's latest
+GitHub release and verified against the author's published SHA-256 digest — alongside the
+documentation bundle and screenshots.
 
-| Folder | Open menu | Platform note |
-| :--- | :--- | :--- |
-| [`alya-starrail/`](alya-starrail/) | `Insert` | — |
-| [`alya-arknights/`](alya-arknights/) | `Insert` | WIP |
-| [`alya-thespikecross/`](alya-thespikecross/) | `Insert` | Steam version only |
-| [`alya-nikke/`](alya-nikke/) | `Insert` | — |
+| Folder | Latest build | Open menu | Platform note |
+| :--- | :--- | :--- | :--- |
+| [`alya-starrail/`](alya-starrail/) | [`Alya-StarRail-0.2.8.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-starrail-v1.0/Alya-StarRail-0.2.8.rar) | `Insert` | — |
+| [`alya-arknights/`](alya-arknights/) | [`Alya-Arknights-0.1.7.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-arknights-v1.0/Alya-Arknights-0.1.7.rar) | `Insert` | WIP |
+| [`alya-thespikecross/`](alya-thespikecross/) | [`Alya-TheSpikeCross-0.0.9.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-thespikecross-v1.0/Alya-TheSpikeCross-0.0.9.rar) | `Insert` | Steam version only |
+| [`alya-nikke/`](alya-nikke/) | [`Alya-NIKKE-0.1.8.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-nikke-v1.0/Alya-NIKKE-0.1.8.rar) | `Insert` | — |
 
 ---
 

