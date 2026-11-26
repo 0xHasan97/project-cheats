@@ -67,33 +67,6 @@ Everything here is the work of the following people and communities:
 
 ---
 
-## Folder layout
-
-```text
-project-cheats/
-├── README.md                  ← this file
-├── tokky-nte/
-│   ├── README.md              ← features, versions, release history
-│   ├── downloads/
-│   │   ├── Tokky-NTE-Global.zip
-│   │   └── Tokky-NTE-CN.zip
-│   └── screenshots/           ← banner
-├── alya-starrail/
-│   ├── README.md
-│   └── screenshots/
-├── alya-arknights/
-│   ├── README.md
-│   └── screenshots/
-├── alya-thespikecross/
-│   ├── README.md
-│   └── screenshots/
-└── alya-nikke/
-    ├── README.md
-    └── screenshots/
-```
-
----
-
 ## Disclaimer
 
 This repository is an **unofficial mirror kept for archival and reference purposes**.
