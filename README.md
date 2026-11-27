@@ -21,6 +21,7 @@ plus a link back to the original source and full credit to its author.
 | [`alya-arknights/`](alya-arknights/) | **Alya** | Arknights | [0xCiel/Alya-Arknights](https://github.com/0xCiel/Alya-Arknights) |
 | [`alya-thespikecross/`](alya-thespikecross/) | **Alya** | The Spike Cross | [0xCiel/Alya-TheSpikeCross](https://github.com/0xCiel/Alya-TheSpikeCross) |
 | [`alya-nikke/`](alya-nikke/) | **Alya** | NIKKE: Goddess of Victory | [0xCiel/Alya-NIKKE](https://github.com/0xCiel/Alya-NIKKE) |
+| [`alya-endfield/`](alya-endfield/) | **Alya** | Arknights: Endfield | [Mega (author build)](https://mega.nz/file/sgs1xCpa#FGdlO9u3XRL6kZqoypzIj6E8jCS9chhIeFxPhKfbqHk) |
 
 ---
 
@@ -39,6 +40,7 @@ and the build ships as `Release.rar` exactly as the authors publish it.
 | **Alya** — Arknights | `0.1.7` | `Release.rar` | [`Alya-Arknights-v0.1.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Arknights-v0.1.7) |
 | **Alya** — The Spike Cross | `0.0.9` | `Release.rar` | [`Alya-TheSpikeCross-v0.0.9`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-TheSpikeCross-v0.0.9) |
 | **Alya** — NIKKE | `0.1.8` | `Release.rar` | [`Alya-NIKKE-v0.1.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-NIKKE-v0.1.8) |
+| **Alya** — Arknights: Endfield | `1.0.7` | `Release.rar` | [`Alya-Endfield-v1.0.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Endfield-v1.0.7) |
 
 ---
 
@@ -66,6 +68,7 @@ Everything here is the work of the following people and communities:
 - <https://github.com/0xCiel/Alya-Arknights>
 - <https://github.com/0xCiel/Alya-TheSpikeCross>
 - <https://github.com/0xCiel/Alya-NIKKE>
+- Alya-Endfield — author build on Mega: <https://mega.nz/file/sgs1xCpa#FGdlO9u3XRL6kZqoypzIj6E8jCS9chhIeFxPhKfbqHk>
 
 ---
 
