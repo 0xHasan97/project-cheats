@@ -23,6 +23,7 @@ plus a link back to the original source and full credit to its author.
 | [`alya-nikke/`](alya-nikke/) | **Alya** | NIKKE: Goddess of Victory | [0xCiel/Alya-NIKKE](https://github.com/0xCiel/Alya-NIKKE) |
 | [`alya-endfield/`](alya-endfield/) | **Alya** | Arknights: Endfield | [Mega (author build)](https://mega.nz/file/sgs1xCpa#FGdlO9u3XRL6kZqoypzIj6E8jCS9chhIeFxPhKfbqHk) |
 | [`project-lightning/`](project-lightning/) | **Project Lightning** `v5.1.0.0` | Game library manager & downloader | [LightnigFast/Project-Lightning](https://github.com/LightnigFast/Project-Lightning) |
+| [`idm-crack/`](idm-crack/) | **IDM 6.4x Crack** `v20.7` | IDM / Windows / Office / WinRAR | Ali.Dbg (no public repo) |
 
 ---
 
@@ -43,6 +44,7 @@ and the build ships as `Release.rar` exactly as the authors publish it.
 | **Alya** — NIKKE | `0.1.8` | `Release.rar` | [`Alya-NIKKE-v0.1.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-NIKKE-v0.1.8) |
 | **Alya** — Arknights: Endfield | `1.0.7` | `Release.rar` | [`Alya-Endfield-v1.0.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Endfield-v1.0.7) |
 | **Project Lightning** | `5.1.0.0` | `ProjectLightningInstaller-v5.exe` · `ProjectLightningInstaller.AppImage` | [`Project-Lightning-v5.1.0.0`](https://github.com/0xHasan97/project-cheats/releases/tag/Project-Lightning-v5.1.0.0) |
+| **IDM 6.4x Crack** | `20.7` | `IDM-6.4x-Crack-v20.7.zip` | [`IDM-Crack-v20.7`](https://github.com/0xHasan97/project-cheats/releases/tag/IDM-Crack-v20.7) |
 
 ---
 
