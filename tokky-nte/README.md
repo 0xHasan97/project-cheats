@@ -5,7 +5,7 @@
 
 Cheat/menu package for **NTE: Neverness to Everness**, distributed per region.
 
-> **Download:** [`Tokky-NTE-v0.4.11`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-NTE-v0.4.11) — both region packages.
+> **Download:** [`Tokky-NTE-v0.4.12`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-NTE-v0.4.12) — both region packages.
 
 <img src="screenshots/banner.jpg" width="720"/>
 
@@ -13,12 +13,12 @@ Cheat/menu package for **NTE: Neverness to Everness**, distributed per region.
 
 | Field | Global | CN |
 | --- | --- | --- |
-| Tool version | 0.4.11 | 0.4.11 |
-| Game version | 1.5.5 | 1.5.6 |
-| Package | `Tokky-NTE.zip` | `Tokky-NTE.zip` |
-| Size | 22 MB | 23 MB |
-| Released | Nov 21, 2026 | Nov 21, 2026 |
-| SHA-256 | `b3a52bc6258cfb379e658110bba661689a9ec014566ff9e5fb38c430b2ed87c0` | `be945a7a6de6f091b9c6117e854caa1bbdefc9082fa660c00569176e52ee1595` |
+| Tool version | 0.4.12 | 0.4.12 |
+| Game version | 1.5.5 | 1.5.8 |
+| Package | `Tokky-NTE0.4.12.zip` | `Tokky-NTE0.4.12.zip` |
+| Size | 24 MB | 24 MB |
+| Released | Nov 26, 2026 | Nov 26, 2026 |
+| SHA-256 | `2568f965e53be292854b6bf6643abd17a45037c5a652b564930f9991d3cd09bb` | `30a81dd2afc2ed788b4c01b093bec3ed63a6d95ba22df9e6537e3cb9b0a65019` |
 
 Both hashes above were verified against the values published on the official tool page.
 
@@ -26,8 +26,8 @@ Both hashes above were verified against the values published on the official too
 
 | Region | File | Size |
 | --- | --- | --- |
-| Global | [`downloads/Tokky-NTE-Global.zip`](downloads/Tokky-NTE-Global.zip) | 23,286,193 bytes |
-| CN | [`downloads/Tokky-NTE-CN.zip`](downloads/Tokky-NTE-CN.zip) | 24,456,905 bytes |
+| Global | [`downloads/Tokky-NTE-Global.zip`](downloads/Tokky-NTE-Global.zip) | 24,679,257 bytes |
+| CN | [`downloads/Tokky-NTE-CN.zip`](downloads/Tokky-NTE-CN.zip) | 24,747,596 bytes |
 
 Each region ships its own package — pick the one that matches your game client.
 
@@ -53,6 +53,7 @@ Press **Insert** to open the menu.
 
 ## Release history
 
+- **v0.4.12** (Global, game 1.5.5 / CN, game 1.5.8) — Nov 26, 2026 — Improved Auto Loot; CN build updated for game 1.5.8
 - **v0.4.11** (Global, game 1.5.5 / CN, game 1.5.6) — Nov 21, 2026 — Fixed some bugs
 
 ## Credits

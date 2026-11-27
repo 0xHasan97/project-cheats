@@ -5,17 +5,18 @@
 
 Cheat/menu package for **Zenless Zone Zero** (ZZZ).
 
-> **Download:** [`Tokky-ZZZ-v0.1.3`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-ZZZ-v0.1.3) — `Tokky-ZZZ0.1.3.zip`.
+> **Download:** [`Tokky-ZZZ-v0.1.4`](https://github.com/0xHasan97/project-cheats/releases/tag/Tokky-ZZZ-v0.1.4) — `Tokky-ZZZ0.1.4.zip`.
 
 ## Package info
 
 | Field | Value |
 | --- | --- |
-| Tool version | 0.1.3 |
-| Package | `Tokky-ZZZ0.1.3.zip` |
-| Size | 22,088,760 bytes (21.1 MB) |
-| Released | Nov 22, 2026 |
-| SHA-256 | `988bf02bf71e0a40f6c8d0ac74276c69fd93942355e58519a0d04bee5f7e3d5d` |
+| Tool version | 0.1.4 |
+| Game version | 3.3.0 |
+| Package | `Tokky-ZZZ0.1.4.zip` |
+| Size | 24,688,016 bytes (23.5 MB) |
+| Released | Nov 27, 2026 |
+| SHA-256 | `3846ecc1b592a0e1bebf8f72726be7be811861df39e7791e499521f91841b5ac` |
 
 The hash above matches the digest published on the upstream release.
 
@@ -27,7 +28,7 @@ The hash above matches the digest published on the upstream release.
 
 **Visuals** — FOV · Peeking · Unlock Camera Angle · Free Camera · Hide UI · Custom Graphics · UID Changer
 
-**World** — Auto Skip · Auto Talk · Dumb Enemies · Instant Win · Mini Cargo Track TP · Global Speed · Containers (Interaction Range, Search Time Multiplier, Instant Open, ESP)
+**World** — Auto Skip (Dialogue, Cutscene, Comic, Galgame) · Auto Talk · Dumb Enemies · Instant Win · Mini Cargo Track TP · Global Speed · Containers (Interaction Range, Search Time Multiplier, Instant Open, ESP, Auto Collect, Auto Open, Auto Unlock)
 
 **Misc** — FPS Unlock · Skin Unlock
 
@@ -39,6 +40,7 @@ Press **Insert** to open the menu.
 
 ## Release history
 
+- **v0.1.4** — Nov 27, 2026 — Containers → Auto Collect / Auto Open / Auto Unlock; Auto Collect → Without Open (opens, searches and collects without showing the container screen); Instant Open also works on the electric safe timing game; fixed some issues
 - **v0.1.3** — Nov 22, 2026 — Added World → Containers (Interaction Range, Search Time Multiplier, Instant Open, ESP); keybind for Free Camera; launcher auto-injects when the game process is detected; Steam support; fixed Auto Skip and Auto Dodge
 - **v0.1.2** — Nov 13, 2026 — Infinite SP, Max Skill Level, Auto Parry, Auto Dodge; keybinds for Kill Aura / Global Speed / Auto Talk / Instant Win / Mini Cargo Track TP
 - **v0.1.1** — Nov 10, 2026 — Max Cinema / Phase, Signature W-Engine
