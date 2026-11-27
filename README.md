@@ -22,6 +22,7 @@ plus a link back to the original source and full credit to its author.
 | [`alya-thespikecross/`](alya-thespikecross/) | **Alya** | The Spike Cross | [0xCiel/Alya-TheSpikeCross](https://github.com/0xCiel/Alya-TheSpikeCross) |
 | [`alya-nikke/`](alya-nikke/) | **Alya** | NIKKE: Goddess of Victory | [0xCiel/Alya-NIKKE](https://github.com/0xCiel/Alya-NIKKE) |
 | [`alya-endfield/`](alya-endfield/) | **Alya** | Arknights: Endfield | [Mega (author build)](https://mega.nz/file/sgs1xCpa#FGdlO9u3XRL6kZqoypzIj6E8jCS9chhIeFxPhKfbqHk) |
+| [`project-lightning/`](project-lightning/) | **Project Lightning** `v5.1.0.0` | Game library manager & downloader | [LightnigFast/Project-Lightning](https://github.com/LightnigFast/Project-Lightning) |
 
 ---
 
@@ -41,6 +42,7 @@ and the build ships as `Release.rar` exactly as the authors publish it.
 | **Alya** — The Spike Cross | `0.0.9` | `Release.rar` | [`Alya-TheSpikeCross-v0.0.9`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-TheSpikeCross-v0.0.9) |
 | **Alya** — NIKKE | `0.1.8` | `Release.rar` | [`Alya-NIKKE-v0.1.8`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-NIKKE-v0.1.8) |
 | **Alya** — Arknights: Endfield | `1.0.7` | `Release.rar` | [`Alya-Endfield-v1.0.7`](https://github.com/0xHasan97/project-cheats/releases/tag/Alya-Endfield-v1.0.7) |
+| **Project Lightning** | `5.1.0.0` | `ProjectLightningInstaller-v5.exe` · `ProjectLightningInstaller.AppImage` | [`Project-Lightning-v5.1.0.0`](https://github.com/0xHasan97/project-cheats/releases/tag/Project-Lightning-v5.1.0.0) |
 
 ---
 
@@ -61,6 +63,12 @@ Everything here is the work of the following people and communities:
 - Alya Discord: <https://discord.gg/9gW7MWsWnH>
 - Endfield Discord: <https://discord.gg/FV4ArH4BQa>
 
+### LightningFast — Project Lightning
+
+- GitHub: <https://github.com/LightnigFast>
+- Website: <https://project-lightning-web.vercel.app/>
+- Discord: <https://discord.gg/JBB2pTNTqK>
+
 ### Sources
 
 - <https://imtokky.vercel.app/tools/tokky-nte>
@@ -69,6 +77,8 @@ Everything here is the work of the following people and communities:
 - <https://github.com/0xCiel/Alya-TheSpikeCross>
 - <https://github.com/0xCiel/Alya-NIKKE>
 - Alya-Endfield — author build on Mega: <https://mega.nz/file/sgs1xCpa#FGdlO9u3XRL6kZqoypzIj6E8jCS9chhIeFxPhKfbqHk>
+- <https://github.com/LightnigFast/Project-Lightning>
+- <https://project-lightning-web.vercel.app/>
 
 ---
 
